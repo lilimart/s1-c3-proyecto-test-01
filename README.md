@@ -6,3 +6,5 @@ hola a todos
 tengo hambre
 
 adios
+
+amanecer
